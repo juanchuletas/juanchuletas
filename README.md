@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Juan José García (juanchuletas)
-
+# 👋 Hi, I'm Juan García 
 - 🌎 Based in **Mexico City**
 - 💻 **C++ developer** passionate about scientific computing, numerical methods, and creative coding.
 - 🏢 Currently working as a **C++ Software Developer at Aspentech**
