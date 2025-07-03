@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Juan José García (juanchuletas)
 
-<!--
-**juanchuletas/juanchuletas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://avatars.githubusercontent.com/u/30239624?v=4)
 
-Here are some ideas to get you started:
+- 🌎 Based in **Mexico City**
+- 💻 **C++ developer** passionate about scientific computing, numerical methods, and creative coding.
+- 🗓️ GitHub user since 2017
+- 🐦 [Twitter: @juanchuletas](https://twitter.com/juanchuletas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Top Projects
+
+- [FunGT](https://github.com/juanchuletas/FunGT)  
+  *A fun OpenGL project for graphics experimentation.*
+
+- [funlib](https://github.com/juanchuletas/funlib)  
+  *A library for creative and numerical computing.*
+
+---
+
+## 🛠️ Main Skills
+
+- **C++** / C
+- SYCL
+- OpenCL
+- Python
+- Go
+- OpenGL
+- Numerical methods
+- Scientific computing
+
+---
+
+## 📊 GitHub Stats
+
+![juanchuletas' GitHub stats](https://github-readme-stats.vercel.app/api?username=juanchuletas&show_icons=true&theme=default)
+
+---
+
+## 📫 Contact
+
+- **Email:** juan.garcia.cpp@gmail.com
+- [Twitter: @juanchuletas](https://twitter.com/juanchuletas)
+
+---
+*Let's connect and create something amazing!*
