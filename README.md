@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Juan José García (juanchuletas)
 
-![Profile Banner](https://avatars.githubusercontent.com/u/30239624?v=4)
-
 - 🌎 Based in **Mexico City**
 - 💻 **C++ developer** passionate about scientific computing, numerical methods, and creative coding.
+- 🏢 Currently working as a **C++ Software Developer at Aspentech**
 - 🗓️ GitHub user since 2017
 - 🐦 [Twitter: @juanchuletas](https://twitter.com/juanchuletas)
 
