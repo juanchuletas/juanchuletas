@@ -11,13 +11,16 @@ Since 2017, I’ve been building tools, engines, and compute systems that push p
 🔷 FunGT  
 A C++ graphics/compute engine that integrates OpenGL rasterization, CUDA path-tracing, SYCL kernels, PBR materials, model loading (Assimp), physics utilities, and scene management.  
 A long-term serious project where I explore real-time and offline rendering pipelines under one framework.  
-🔗 https://github.com/juanchuletas/FunGT
+🔗 https://github.com/juanchuletas/FunGT 
 
 🔷 SYCL-Metal Backend Prototype  
 An experimental prototype where I work on enabling SYCL to target Apple's Metal shading language.  
 The project involves converting SPIR-V → MSL, building a minimal device runtime, and exploring what a real SYCL backend for Metal would require.  
 This includes integrating SPIRV-Cross, testing kernel translation, and designing a backend flow similar to CUDA/HIP targets.  
-🔗 https://github.com/juanchuletas/sycl-metal-prototype
+🔗 [https://github.com/juanchuletas/sycl-metal-prototype](https://github.com/juanchuletas/llvm/)
+
+
+
 ---
 
 ## 🛠️ Main Skills
