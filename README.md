@@ -1,51 +1,51 @@
- I'm Juan García
+# Juan García
 
-C++ Software Developer focused on GPU programming, high-performance computing, rendering, and low-level systems engineering.
-I work across the stack — from SYCL kernels and CUDA path tracers to PBR rendering and engine-level architecture.
-My background blends mathematics, numerical methods, parallel computing, and graphics.
+**C++ Software Engineer | GPU Computing | Compilers | Computer Graphics**
 
-Since 2017, I’ve been building tools, engines, and compute systems that push performance while staying modern and clean.
+Software engineer specializing in C++ development, GPU programming, and low-level systems.
 
-🚀 Featured Projects
+My work spans compiler infrastructure, heterogeneous computing, and computer graphics, with a particular interest in the intersection of programming languages, hardware architectures, and high-performance software.
 
-🔷 FunGT  
-A C++ graphics/compute engine that integrates OpenGL rasterization, CUDA path-tracing, SYCL kernels, PBR materials, model loading (Assimp), physics utilities, and scene management.  
-A long-term serious project where I explore real-time and offline rendering pipelines under one framework.  
-🔗 https://github.com/FunGTs/FunGT 
+I have experience developing GPU compute applications using SYCL, CUDA, and OpenCL; building rendering engines; and working with compiler infrastructure based on LLVM.
 
-🔷 SYCL-Metal Backend Prototype  
-An experimental prototype where I work on enabling SYCL to target Apple's Metal shading language.  
-The project involves converting SPIR-V → MSL, building a minimal device runtime, and exploring what a real SYCL backend for Metal would require.  
-This includes integrating SPIRV-Cross, testing kernel translation, and designing a backend flow similar to CUDA/HIP targets.  
-🔗 [https://github.com/juanchuletas/sycl-metal-prototype](https://github.com/juanchuletas/llvm/)
+My academic background in quantum chemistry and computational science provides a foundation in numerical methods, optimization, and scientific computing.
 
+## Areas of Interest
 
+- **GPU Computing:** Heterogeneous programming, parallel algorithms, GPU architectures, and performance optimization.
+- **Compilers:** LLVM, intermediate representations, compiler optimizations, and GPU compilation pipelines.
+- **Computer Graphics:** Real-time rendering, physically based rendering, ray tracing, and GPU-accelerated simulation.
+- **Systems Programming:** Modern C++, memory management, concurrency, and performance-oriented software design.
+- **Scientific Computing:** Numerical methods, mathematical modeling, and computational algorithms.
 
----
+## Selected Projects
 
-## 🛠️ Main Skills
+### FunGT — Graphics and Compute Engine
 
-- **C++ / C** (performance, memory management, multithreading, templates, SIMD)
-- **SYCL**
-- **CUDA**
-- **OpenCL**
-- **OpenGL** (rasterization, PBR, shaders)
-- **Numerical methods**
-- **Scientific computing**
-- Python
-- Go
+[GitHub Repository](https://github.com/FunGTs/FunGT)
 
----
+A C++ graphics and compute engine developed to explore rendering techniques, heterogeneous computing, and GPU-accelerated algorithms.
 
-## 📊 GitHub Stats
+The engine integrates OpenGL-based rasterization with CUDA and SYCL compute backends, providing a framework for experimenting with different rendering and simulation techniques.
 
-![juanchuletas' GitHub stats](https://github-readme-stats.vercel.app/api?username=juanchuletas&show_icons=true&theme=default)
+Key components include:
 
----
+- GPU path tracing using CUDA and SYCL.
+- Physically based rendering and material systems.
+- GPU-accelerated physics and particle simulations.
+- Scene management, model loading, and rendering infrastructure.
+- Interactive visualization and debugging tools.
 
-## 📫 Contact
+## Technical Expertise
 
-- **Email:** juan.garcia.cpp@gmail.com  
-- 🐦 [Twitter: @juanchuletas](https://twitter.com/juanchuletas)
+**Languages:** C++, C, Python, Go
 
----
+**GPU Computing:** SYCL, CUDA, OpenCL
+
+**Compilers:** LLVM, MLIR, SPIR-V
+
+**Graphics:** OpenGL, GLSL, Ray Tracing, Physically Based Rendering
+
+**Systems:** Multithreading, Memory Management, Parallel Algorithms, Performance Optimization
+
+**Scientific Computing:** Numerical Methods, Optimization, Computational Modeling
