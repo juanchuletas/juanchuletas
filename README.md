@@ -49,3 +49,5 @@ Key components include:
 **Systems:** Multithreading, Memory Management, Parallel Algorithms, Performance Optimization
 
 **Scientific Computing:** Numerical Methods, Optimization, Computational Modeling
+
+![Profile Views](https://komarev.com/ghpvc/?username=juanchuletas&color=grey&style=flat-square)
